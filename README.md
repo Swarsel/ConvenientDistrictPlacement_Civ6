@@ -5,6 +5,6 @@ a campus? In my eyes it is unrealistic that it is possible to strip an area of a
 
 This mod fixes that by allowing all luxury and strategic resources to be harvested (although for miniscule yields) and also allowing for them to be placed on geothermal fissures and oases (a campus will not benefit from being placed directly on a geothermal fissure however). 
 
-The respective harvest technologies mostly correspond to the unlocking technology, excluding celesial navigation harvests. 
+The respective harvest technologies mostly correspond to the unlocking technology, excluding celesial navigation harvests. One exception are the archaeology resources, which are unlocked at education instead ot their revealing civics, for implementational reasons.
 
 The AI can in theory make use of these changes, but will by my testing not often do so.
